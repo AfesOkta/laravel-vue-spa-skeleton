@@ -3,9 +3,6 @@
         <div class="title mb-4">
             {{ title }}
         </div>
-        <div class="links">
-            <a href="https://github.com/Yurich84/laravel-vue-spa-skeleton">github.com/Yurich84/laravel-vue-spa-skeleton</a>
-        </div>
     </section>
 </template>
 
